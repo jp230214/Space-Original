@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "spacemod:block/pipe_top",
+    "side": "spacemod:block/pipe_side",
+    "top": "spacemod:block/pipe_top"
+  }
+}

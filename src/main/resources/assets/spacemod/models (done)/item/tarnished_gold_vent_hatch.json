@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "spacemod:block/tarnished_gold_vent_hatch"
+  }
+}

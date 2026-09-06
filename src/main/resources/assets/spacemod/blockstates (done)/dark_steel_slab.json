@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spacemod:block/dark_steel_slab"
+    },
+    "type=double": {
+      "model": "spacemod:block/dark_steel"
+    },
+    "type=top": {
+      "model": "spacemod:block/dark_steel_slab_top"
+    }
+  }
+}

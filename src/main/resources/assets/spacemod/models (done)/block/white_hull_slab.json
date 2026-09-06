@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "spacemod:block/white_hull",
+    "side": "spacemod:block/white_hull",
+    "top": "spacemod:block/white_hull"
+  }
+}

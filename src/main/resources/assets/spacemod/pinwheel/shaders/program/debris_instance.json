@@ -1,0 +1,10 @@
+{
+  "vertex": "spacemod:debris_instance",
+  "fragment": "spacemod:debris_instance",
+  "textures": {
+    "SaturnRingTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/saturn_ring.png"
+    }
+  }
+}

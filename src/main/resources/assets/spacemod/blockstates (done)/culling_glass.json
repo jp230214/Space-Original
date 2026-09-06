@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "spacemod:block/culling_glass",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "spacemod:block/culling_glass",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "spacemod:block/culling_glass",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "spacemod:block/culling_glass"
+    },
+    "facing=up": {
+      "model": "spacemod:block/culling_glass",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "spacemod:block/culling_glass",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_vent_hatch",
+  "textures": {
+    "texture": "spacemod:block/cast_vent_hatch"
+  }
+}

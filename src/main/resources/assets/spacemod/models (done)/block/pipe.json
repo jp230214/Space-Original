@@ -1,0 +1,8 @@
+{
+  "parent": "spacemod:block/template_cargo_box",
+  "textures": {
+    "bottom": "spacemod:block/pipe_top",
+    "side": "spacemod:block/pipe_side",
+    "top": "spacemod:block/pipe_top"
+  }
+}

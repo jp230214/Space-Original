@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "spacemod:block/pump",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "spacemod:block/pump",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "spacemod:block/pump"
+    },
+    "facing=south": {
+      "model": "spacemod:block/pump",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "spacemod:block/pump",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "spacemod:block/pump",
+      "y": 270
+    }
+  }
+}

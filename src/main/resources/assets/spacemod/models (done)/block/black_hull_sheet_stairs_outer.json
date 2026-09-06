@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "spacemod:block/black_hull_sheets",
+    "side": "spacemod:block/black_hull_sheets",
+    "top": "spacemod:block/black_hull_sheets"
+  }
+}

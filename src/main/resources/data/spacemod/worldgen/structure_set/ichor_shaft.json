@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1703521845,
+    "separation": 35,
+    "spacing": 50
+  },
+  "structures": [
+    {
+      "structure": "spacemod:ichor_shaft",
+      "weight": 1
+    }
+  ]
+}

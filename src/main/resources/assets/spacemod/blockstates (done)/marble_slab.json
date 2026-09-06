@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spacemod:block/marble_slab"
+    },
+    "type=double": {
+      "model": "spacemod:block/marble"
+    },
+    "type=top": {
+      "model": "spacemod:block/marble_slab_top"
+    }
+  }
+}

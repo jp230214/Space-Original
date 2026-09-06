@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "spacemod:block/metal_sheet",
+    "side": "spacemod:block/metal_sheet",
+    "top": "spacemod:block/metal_sheet"
+  }
+}

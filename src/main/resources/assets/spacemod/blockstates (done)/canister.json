@@ -1,0 +1,115 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "spacemod:block/canister"
+      },
+      "when": {
+        "facing": "north",
+        "half": "lower"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "half": "lower"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "half": "lower"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "half": "lower"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_1"
+      },
+      "when": {
+        "half": "lower",
+        "level": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_2"
+      },
+      "when": {
+        "half": "lower",
+        "level": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_3"
+      },
+      "when": {
+        "half": "lower",
+        "level": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_4"
+      },
+      "when": {
+        "half": "lower",
+        "level": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_5"
+      },
+      "when": {
+        "half": "lower",
+        "level": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_6"
+      },
+      "when": {
+        "half": "lower",
+        "level": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_7"
+      },
+      "when": {
+        "half": "lower",
+        "level": "7"
+      }
+    },
+    {
+      "apply": {
+        "model": "spacemod:block/canister_ichor_8"
+      },
+      "when": {
+        "half": "lower",
+        "level": "8"
+      }
+    }
+  ]
+}

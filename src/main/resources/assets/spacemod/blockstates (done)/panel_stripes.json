@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "spacemod:block/panel_stripes",
+      "y": 90
+    },
+    "axis=z": {
+      "model": "spacemod:block/panel_stripes"
+    }
+  }
+}

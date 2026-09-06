@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_branch_inventory",
+  "textures": {
+    "side": "spacemod:block/stainless_steel",
+    "top": "spacemod:block/stainless_steel_branch_top"
+  }
+}

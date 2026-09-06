@@ -1,0 +1,8 @@
+{
+  "parent": "spacemod:block/template_trimmed_lantern_ceiling",
+  "textures": {
+    "bottom": "spacemod:block/trimmed_lantern_bottom_on",
+    "side": "spacemod:block/trimmed_lantern_side_on",
+    "top": "spacemod:block/trimmed_lantern_top"
+  }
+}

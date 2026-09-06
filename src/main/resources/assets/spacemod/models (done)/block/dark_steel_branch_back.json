@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_branch_back",
+  "textures": {
+    "side": "spacemod:block/dark_steel",
+    "top": "spacemod:block/dark_steel_branch_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "spacemod:block/dark_steel_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "spacemod:block/dark_steel_pillar"
+    },
+    "axis=z": {
+      "model": "spacemod:block/dark_steel_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

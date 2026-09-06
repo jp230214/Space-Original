@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "ops": [
+                {
+                  "op": "replace",
+                  "source": "space_suit_type",
+                  "target": "BlockEntityTag.space_suit_type"
+                }
+              ],
+              "source": "block_entity"
+            }
+          ],
+          "name": "spacemod:space_helmet"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

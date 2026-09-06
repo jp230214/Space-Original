@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:item/handheld_marshmallow_stick",
+  "textures": {
+    "layer0": "spacemod:item/marshmallow_stick_burnt"
+  }
+}

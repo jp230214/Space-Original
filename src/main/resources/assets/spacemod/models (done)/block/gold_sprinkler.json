@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_sprinkler",
+  "textures": {
+    "texture": "spacemod:block/gold_sprinkler"
+  }
+}

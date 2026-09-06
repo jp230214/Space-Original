@@ -1,0 +1,266 @@
+{
+  "mappings": {
+    "doctor4t/spacemod/mixin/AbstractDecorationEntityMixin": {
+      "canStayAttached": "Lnet/minecraft/class_1530;method_6888()Z",
+      "damage": "Lnet/minecraft/class_1530;method_5643(Lnet/minecraft/class_1282;F)Z"
+    },
+    "doctor4t/spacemod/mixin/AxeItemMixin": {
+      "getStrippedState": "Lnet/minecraft/class_1743;method_34716(Lnet/minecraft/class_2680;)Ljava/util/Optional;"
+    },
+    "doctor4t/spacemod/mixin/BindCanisterToBackEnchantmentHelperMixin": {
+      "hasBindingCurse": "Lnet/minecraft/class_1890;method_8224(Lnet/minecraft/class_1799;)Z"
+    },
+    "doctor4t/spacemod/mixin/BiomeMixin": {
+      "doesNotSnow": "Lnet/minecraft/class_1959;method_39927(Lnet/minecraft/class_2338;)Z"
+    },
+    "doctor4t/spacemod/mixin/BlockTexturePoolAccessor": {
+      "baseModelId": "field_22838:Lnet/minecraft/class_2960;"
+    },
+    "doctor4t/spacemod/mixin/DensityFunctionTypesAccessor": {
+      "mapRange": "method_40484(Lnet/minecraft/class_6910;DD)Lnet/minecraft/class_6910;"
+    },
+    "doctor4t/spacemod/mixin/DensityFunctionsAccessor": {
+      "SHIFT_X": "field_37119:Lnet/minecraft/class_5321;",
+      "SHIFT_Z": "field_37120:Lnet/minecraft/class_5321;",
+      "applyBlendDensity": "method_41207(Lnet/minecraft/class_6910;)Lnet/minecraft/class_6910;"
+    },
+    "doctor4t/spacemod/mixin/EntityMixin": {
+      "<init>": "Lnet/minecraft/class_1297;<init>(Lnet/minecraft/class_1299;Lnet/minecraft/class_1937;)V",
+      "Lnet/minecraft/block/BlockState;getRenderType()Lnet/minecraft/block/BlockRenderType;": "Lnet/minecraft/class_2680;method_26217()Lnet/minecraft/class_2464;",
+      "Lnet/minecraft/entity/Entity;updateMovementInFluid(Lnet/minecraft/registry/tag/TagKey;D)Z": "Lnet/minecraft/class_1297;method_5692(Lnet/minecraft/class_6862;D)Z",
+      "spawnSprintingParticles": "Lnet/minecraft/class_1297;method_5839()V",
+      "updateWaterState": "Lnet/minecraft/class_1297;method_5876()Z"
+    },
+    "doctor4t/spacemod/mixin/FallingBlockEntityMixin": {
+      "tick": "Lnet/minecraft/class_1540;method_5773()V"
+    },
+    "doctor4t/spacemod/mixin/ItemEntityMixin": {
+      "tick": "Lnet/minecraft/class_1542;method_5773()V"
+    },
+    "doctor4t/spacemod/mixin/ItemGroupsAccessor": {
+      "addPaintings": "method_48937(Lnet/minecraft/class_1761$class_7704;Lnet/minecraft/class_7225$class_7226;Ljava/util/function/Predicate;Lnet/minecraft/class_1761$class_7705;)V"
+    },
+    "doctor4t/spacemod/mixin/ItemGroupsMixin": {
+      "method_51320": "Lnet/minecraft/class_7706;method_51320(Lnet/minecraft/class_6880;)Z"
+    },
+    "doctor4t/spacemod/mixin/JetpackAirMovementLivingEntityMixin": {
+      "Lnet/minecraft/entity/LivingEntity;updateVelocity(FLnet/minecraft/util/math/Vec3d;)V": "Lnet/minecraft/class_1309;method_5724(FLnet/minecraft/class_243;)V",
+      "applyMovementInput": "Lnet/minecraft/class_1309;method_26318(Lnet/minecraft/class_243;F)Lnet/minecraft/class_243;"
+    },
+    "doctor4t/spacemod/mixin/JetpackThrustPlayerEntityMixin": {
+      "tickMovement": "Lnet/minecraft/class_1657;method_6007()V"
+    },
+    "doctor4t/spacemod/mixin/LadderBlockMixin": {
+      "canPlaceAt": "Lnet/minecraft/class_2399;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+      "getStateForNeighborUpdate": "Lnet/minecraft/class_2399;method_9559(Lnet/minecraft/class_2680;Lnet/minecraft/class_2350;Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2680;"
+    },
+    "doctor4t/spacemod/mixin/LivingEntityAccessor": {
+      "jumpingCooldown": "field_6228:I"
+    },
+    "doctor4t/spacemod/mixin/LivingEntityMixin": {
+      "Lnet/minecraft/block/BedBlock;getDirection(Lnet/minecraft/world/BlockView;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/Direction;": "Lnet/minecraft/class_2244;method_18476(Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2350;",
+      "Lnet/minecraft/block/BlockState;isIn(Lnet/minecraft/registry/tag/TagKey;)Z": "Lnet/minecraft/class_2680;method_26164(Lnet/minecraft/class_6862;)Z",
+      "Lnet/minecraft/block/BlockState;isOf(Lnet/minecraft/block/Block;)Z": "Lnet/minecraft/class_2680;method_27852(Lnet/minecraft/class_2248;)Z",
+      "Lnet/minecraft/entity/LivingEntity;getFluidHeight(Lnet/minecraft/registry/tag/TagKey;)D": "Lnet/minecraft/class_1309;method_5861(Lnet/minecraft/class_6862;)D",
+      "Lnet/minecraft/entity/LivingEntity;isFireImmune()Z": "Lnet/minecraft/class_1309;method_5753()Z",
+      "Lnet/minecraft/entity/LivingEntity;isTouchingWater()Z": "Lnet/minecraft/class_1309;method_5799()Z",
+      "Lnet/minecraft/entity/LivingEntity;swimUpward(Lnet/minecraft/registry/tag/TagKey;)V": "Lnet/minecraft/class_1309;method_6010(Lnet/minecraft/class_6862;)V",
+      "baseTick": "Lnet/minecraft/class_1309;method_5670()V",
+      "canEnterTrapdoor": "Lnet/minecraft/class_1309;method_6077(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)Z",
+      "computeFallDamage": "Lnet/minecraft/class_1309;method_23329(FF)I",
+      "getSleepingDirection": "Lnet/minecraft/class_1309;method_18401()Lnet/minecraft/class_2350;",
+      "isClimbing": "Lnet/minecraft/class_1309;method_6101()Z",
+      "method_18404": "Lnet/minecraft/class_1309;method_18404(Lnet/minecraft/class_2338;)V",
+      "method_18405": "Lnet/minecraft/class_1309;method_18405(Lnet/minecraft/class_2338;)Ljava/lang/Boolean;",
+      "tickMovement": "Lnet/minecraft/class_1309;method_6007()V",
+      "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+    },
+    "doctor4t/spacemod/mixin/NoVoidDamageInSpaceLivingEntityMixin": {
+      "tickInVoid": "Lnet/minecraft/class_1309;method_5825()V"
+    },
+    "doctor4t/spacemod/mixin/PersistentProjectileEntityMixin": {
+      "Lnet/minecraft/entity/projectile/PersistentProjectileEntity;setVelocity(DDD)V": "Lnet/minecraft/class_1665;method_18800(DDD)V",
+      "tick": "Lnet/minecraft/class_1665;method_5773()V"
+    },
+    "doctor4t/spacemod/mixin/PlayerEntityMixin": {
+      "Lnet/minecraft/entity/player/PlayerEntity;isSwimming()Z": "Lnet/minecraft/class_1657;method_5681()Z",
+      "findRespawnPosition": "Lnet/minecraft/class_1657;method_26091(Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;FZZ)Ljava/util/Optional;",
+      "isUsingSpyglass": "Lnet/minecraft/class_1657;method_31550()Z",
+      "updatePose": "Lnet/minecraft/class_1657;method_7318()V"
+    },
+    "doctor4t/spacemod/mixin/ResetMarshmallowAttackPlayerEntityMixin": {
+      "resetLastAttackedTicks": "Lnet/minecraft/class_1657;method_7350()V"
+    },
+    "doctor4t/spacemod/mixin/ShapeContextMixin": {
+      "of": "Lnet/minecraft/class_3726;method_16195(Lnet/minecraft/class_1297;)Lnet/minecraft/class_3726;"
+    },
+    "doctor4t/spacemod/mixin/SurfaceBuilderMixin": {
+      "Lnet/minecraft/registry/entry/RegistryEntry;matchesKey(Lnet/minecraft/registry/RegistryKey;)Z": "Lnet/minecraft/class_6880;method_40225(Lnet/minecraft/class_5321;)Z",
+      "buildSurface": "Lnet/minecraft/class_6724;method_39106(Lnet/minecraft/class_7138;Lnet/minecraft/class_4543;Lnet/minecraft/class_2378;ZLnet/minecraft/class_5868;Lnet/minecraft/class_2791;Lnet/minecraft/class_6568;Lnet/minecraft/class_6686$class_6708;)V"
+    },
+    "doctor4t/spacemod/mixin/ThrownEntityMixin": {
+      "getGravity": "Lnet/minecraft/class_1682;method_7490()F"
+    },
+    "doctor4t/spacemod/mixin/TntEntityMixin": {
+      "tick": "Lnet/minecraft/class_1541;method_5773()V"
+    },
+    "doctor4t/spacemod/mixin/UpdateGravityScaleServerPlayerEntityMixin": {
+      "setServerWorld": "Lnet/minecraft/class_3222;method_51468(Lnet/minecraft/class_3218;)V"
+    },
+    "doctor4t/spacemod/mixin/WorldViewMixin": {
+      "Lnet/minecraft/fluid/FluidState;isEmpty()Z": "Lnet/minecraft/class_3610;method_15769()Z",
+      "containsFluid": "Lnet/minecraft/class_4538;method_22345(Lnet/minecraft/class_238;)Z"
+    },
+    "doctor4t/spacemod/mixin/disablechat/MeCommandMixin": {
+      "method_43645": "Lnet/minecraft/class_3045;method_43645(Lcom/mojang/brigadier/context/CommandContext;Lnet/minecraft/class_7471;)V"
+    },
+    "doctor4t/spacemod/mixin/disablechat/MessageCommandMixin": {
+      "execute": "Lnet/minecraft/class_3082;method_13462(Lnet/minecraft/class_2168;Ljava/util/Collection;Lnet/minecraft/class_7471;)V"
+    },
+    "doctor4t/spacemod/mixin/disablechat/ServerPlayNetworkHandlerMixin": {
+      "onChatMessage": "Lnet/minecraft/class_3244;method_12048(Lnet/minecraft/class_2797;)V"
+    },
+    "doctor4t/spacemod/mixin/hungerdisable/DisableFoodWithSpaceHelmetOrWhenHealingPlayerEntityMixin": {
+      "canConsume": "Lnet/minecraft/class_1657;method_7332(Z)Z"
+    },
+    "doctor4t/spacemod/mixin/hungerdisable/DisableHungerMechanicHungerManagerMixin": {
+      "update": "Lnet/minecraft/class_1702;method_7588(Lnet/minecraft/class_1657;)V"
+    },
+    "doctor4t/spacemod/mixin/hungerdisable/TurnFoodIntoHealingTicksPlayerEntityMixin": {
+      "eatFood": "Lnet/minecraft/class_1657;method_18866(Lnet/minecraft/class_1937;Lnet/minecraft/class_1799;)Lnet/minecraft/class_1799;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "doctor4t/spacemod/mixin/AbstractDecorationEntityMixin": {
+        "canStayAttached": "Lnet/minecraft/class_1530;method_6888()Z",
+        "damage": "Lnet/minecraft/class_1530;method_5643(Lnet/minecraft/class_1282;F)Z"
+      },
+      "doctor4t/spacemod/mixin/AxeItemMixin": {
+        "getStrippedState": "Lnet/minecraft/class_1743;method_34716(Lnet/minecraft/class_2680;)Ljava/util/Optional;"
+      },
+      "doctor4t/spacemod/mixin/BindCanisterToBackEnchantmentHelperMixin": {
+        "hasBindingCurse": "Lnet/minecraft/class_1890;method_8224(Lnet/minecraft/class_1799;)Z"
+      },
+      "doctor4t/spacemod/mixin/BiomeMixin": {
+        "doesNotSnow": "Lnet/minecraft/class_1959;method_39927(Lnet/minecraft/class_2338;)Z"
+      },
+      "doctor4t/spacemod/mixin/BlockTexturePoolAccessor": {
+        "baseModelId": "field_22838:Lnet/minecraft/class_2960;"
+      },
+      "doctor4t/spacemod/mixin/DensityFunctionTypesAccessor": {
+        "mapRange": "method_40484(Lnet/minecraft/class_6910;DD)Lnet/minecraft/class_6910;"
+      },
+      "doctor4t/spacemod/mixin/DensityFunctionsAccessor": {
+        "SHIFT_X": "field_37119:Lnet/minecraft/class_5321;",
+        "SHIFT_Z": "field_37120:Lnet/minecraft/class_5321;",
+        "applyBlendDensity": "method_41207(Lnet/minecraft/class_6910;)Lnet/minecraft/class_6910;"
+      },
+      "doctor4t/spacemod/mixin/EntityMixin": {
+        "<init>": "Lnet/minecraft/class_1297;<init>(Lnet/minecraft/class_1299;Lnet/minecraft/class_1937;)V",
+        "Lnet/minecraft/block/BlockState;getRenderType()Lnet/minecraft/block/BlockRenderType;": "Lnet/minecraft/class_2680;method_26217()Lnet/minecraft/class_2464;",
+        "Lnet/minecraft/entity/Entity;updateMovementInFluid(Lnet/minecraft/registry/tag/TagKey;D)Z": "Lnet/minecraft/class_1297;method_5692(Lnet/minecraft/class_6862;D)Z",
+        "spawnSprintingParticles": "Lnet/minecraft/class_1297;method_5839()V",
+        "updateWaterState": "Lnet/minecraft/class_1297;method_5876()Z"
+      },
+      "doctor4t/spacemod/mixin/FallingBlockEntityMixin": {
+        "tick": "Lnet/minecraft/class_1540;method_5773()V"
+      },
+      "doctor4t/spacemod/mixin/ItemEntityMixin": {
+        "tick": "Lnet/minecraft/class_1542;method_5773()V"
+      },
+      "doctor4t/spacemod/mixin/ItemGroupsAccessor": {
+        "addPaintings": "method_48937(Lnet/minecraft/class_1761$class_7704;Lnet/minecraft/class_7225$class_7226;Ljava/util/function/Predicate;Lnet/minecraft/class_1761$class_7705;)V"
+      },
+      "doctor4t/spacemod/mixin/ItemGroupsMixin": {
+        "method_51320": "Lnet/minecraft/class_7706;method_51320(Lnet/minecraft/class_6880;)Z"
+      },
+      "doctor4t/spacemod/mixin/JetpackAirMovementLivingEntityMixin": {
+        "Lnet/minecraft/entity/LivingEntity;updateVelocity(FLnet/minecraft/util/math/Vec3d;)V": "Lnet/minecraft/class_1309;method_5724(FLnet/minecraft/class_243;)V",
+        "applyMovementInput": "Lnet/minecraft/class_1309;method_26318(Lnet/minecraft/class_243;F)Lnet/minecraft/class_243;"
+      },
+      "doctor4t/spacemod/mixin/JetpackThrustPlayerEntityMixin": {
+        "tickMovement": "Lnet/minecraft/class_1657;method_6007()V"
+      },
+      "doctor4t/spacemod/mixin/LadderBlockMixin": {
+        "canPlaceAt": "Lnet/minecraft/class_2399;method_9558(Lnet/minecraft/class_2680;Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;)Z",
+        "getStateForNeighborUpdate": "Lnet/minecraft/class_2399;method_9559(Lnet/minecraft/class_2680;Lnet/minecraft/class_2350;Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2680;"
+      },
+      "doctor4t/spacemod/mixin/LivingEntityAccessor": {
+        "jumpingCooldown": "field_6228:I"
+      },
+      "doctor4t/spacemod/mixin/LivingEntityMixin": {
+        "Lnet/minecraft/block/BedBlock;getDirection(Lnet/minecraft/world/BlockView;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/Direction;": "Lnet/minecraft/class_2244;method_18476(Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2350;",
+        "Lnet/minecraft/block/BlockState;isIn(Lnet/minecraft/registry/tag/TagKey;)Z": "Lnet/minecraft/class_2680;method_26164(Lnet/minecraft/class_6862;)Z",
+        "Lnet/minecraft/block/BlockState;isOf(Lnet/minecraft/block/Block;)Z": "Lnet/minecraft/class_2680;method_27852(Lnet/minecraft/class_2248;)Z",
+        "Lnet/minecraft/entity/LivingEntity;getFluidHeight(Lnet/minecraft/registry/tag/TagKey;)D": "Lnet/minecraft/class_1309;method_5861(Lnet/minecraft/class_6862;)D",
+        "Lnet/minecraft/entity/LivingEntity;isFireImmune()Z": "Lnet/minecraft/class_1309;method_5753()Z",
+        "Lnet/minecraft/entity/LivingEntity;isTouchingWater()Z": "Lnet/minecraft/class_1309;method_5799()Z",
+        "Lnet/minecraft/entity/LivingEntity;swimUpward(Lnet/minecraft/registry/tag/TagKey;)V": "Lnet/minecraft/class_1309;method_6010(Lnet/minecraft/class_6862;)V",
+        "baseTick": "Lnet/minecraft/class_1309;method_5670()V",
+        "canEnterTrapdoor": "Lnet/minecraft/class_1309;method_6077(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)Z",
+        "computeFallDamage": "Lnet/minecraft/class_1309;method_23329(FF)I",
+        "getSleepingDirection": "Lnet/minecraft/class_1309;method_18401()Lnet/minecraft/class_2350;",
+        "isClimbing": "Lnet/minecraft/class_1309;method_6101()Z",
+        "method_18404": "Lnet/minecraft/class_1309;method_18404(Lnet/minecraft/class_2338;)V",
+        "method_18405": "Lnet/minecraft/class_1309;method_18405(Lnet/minecraft/class_2338;)Ljava/lang/Boolean;",
+        "tickMovement": "Lnet/minecraft/class_1309;method_6007()V",
+        "travel": "Lnet/minecraft/class_1309;method_6091(Lnet/minecraft/class_243;)V"
+      },
+      "doctor4t/spacemod/mixin/NoVoidDamageInSpaceLivingEntityMixin": {
+        "tickInVoid": "Lnet/minecraft/class_1309;method_5825()V"
+      },
+      "doctor4t/spacemod/mixin/PersistentProjectileEntityMixin": {
+        "Lnet/minecraft/entity/projectile/PersistentProjectileEntity;setVelocity(DDD)V": "Lnet/minecraft/class_1665;method_18800(DDD)V",
+        "tick": "Lnet/minecraft/class_1665;method_5773()V"
+      },
+      "doctor4t/spacemod/mixin/PlayerEntityMixin": {
+        "Lnet/minecraft/entity/player/PlayerEntity;isSwimming()Z": "Lnet/minecraft/class_1657;method_5681()Z",
+        "findRespawnPosition": "Lnet/minecraft/class_1657;method_26091(Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;FZZ)Ljava/util/Optional;",
+        "isUsingSpyglass": "Lnet/minecraft/class_1657;method_31550()Z",
+        "updatePose": "Lnet/minecraft/class_1657;method_7318()V"
+      },
+      "doctor4t/spacemod/mixin/ResetMarshmallowAttackPlayerEntityMixin": {
+        "resetLastAttackedTicks": "Lnet/minecraft/class_1657;method_7350()V"
+      },
+      "doctor4t/spacemod/mixin/ShapeContextMixin": {
+        "of": "Lnet/minecraft/class_3726;method_16195(Lnet/minecraft/class_1297;)Lnet/minecraft/class_3726;"
+      },
+      "doctor4t/spacemod/mixin/SurfaceBuilderMixin": {
+        "Lnet/minecraft/registry/entry/RegistryEntry;matchesKey(Lnet/minecraft/registry/RegistryKey;)Z": "Lnet/minecraft/class_6880;method_40225(Lnet/minecraft/class_5321;)Z",
+        "buildSurface": "Lnet/minecraft/class_6724;method_39106(Lnet/minecraft/class_7138;Lnet/minecraft/class_4543;Lnet/minecraft/class_2378;ZLnet/minecraft/class_5868;Lnet/minecraft/class_2791;Lnet/minecraft/class_6568;Lnet/minecraft/class_6686$class_6708;)V"
+      },
+      "doctor4t/spacemod/mixin/ThrownEntityMixin": {
+        "getGravity": "Lnet/minecraft/class_1682;method_7490()F"
+      },
+      "doctor4t/spacemod/mixin/TntEntityMixin": {
+        "tick": "Lnet/minecraft/class_1541;method_5773()V"
+      },
+      "doctor4t/spacemod/mixin/UpdateGravityScaleServerPlayerEntityMixin": {
+        "setServerWorld": "Lnet/minecraft/class_3222;method_51468(Lnet/minecraft/class_3218;)V"
+      },
+      "doctor4t/spacemod/mixin/WorldViewMixin": {
+        "Lnet/minecraft/fluid/FluidState;isEmpty()Z": "Lnet/minecraft/class_3610;method_15769()Z",
+        "containsFluid": "Lnet/minecraft/class_4538;method_22345(Lnet/minecraft/class_238;)Z"
+      },
+      "doctor4t/spacemod/mixin/disablechat/MeCommandMixin": {
+        "method_43645": "Lnet/minecraft/class_3045;method_43645(Lcom/mojang/brigadier/context/CommandContext;Lnet/minecraft/class_7471;)V"
+      },
+      "doctor4t/spacemod/mixin/disablechat/MessageCommandMixin": {
+        "execute": "Lnet/minecraft/class_3082;method_13462(Lnet/minecraft/class_2168;Ljava/util/Collection;Lnet/minecraft/class_7471;)V"
+      },
+      "doctor4t/spacemod/mixin/disablechat/ServerPlayNetworkHandlerMixin": {
+        "onChatMessage": "Lnet/minecraft/class_3244;method_12048(Lnet/minecraft/class_2797;)V"
+      },
+      "doctor4t/spacemod/mixin/hungerdisable/DisableFoodWithSpaceHelmetOrWhenHealingPlayerEntityMixin": {
+        "canConsume": "Lnet/minecraft/class_1657;method_7332(Z)Z"
+      },
+      "doctor4t/spacemod/mixin/hungerdisable/DisableHungerMechanicHungerManagerMixin": {
+        "update": "Lnet/minecraft/class_1702;method_7588(Lnet/minecraft/class_1657;)V"
+      },
+      "doctor4t/spacemod/mixin/hungerdisable/TurnFoodIntoHealingTicksPlayerEntityMixin": {
+        "eatFood": "Lnet/minecraft/class_1657;method_18866(Lnet/minecraft/class_1937;Lnet/minecraft/class_1799;)Lnet/minecraft/class_1799;"
+      }
+    }
+  }
+}

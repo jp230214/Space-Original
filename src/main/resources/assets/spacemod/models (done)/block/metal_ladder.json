@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/ladder",
+  "textures": {
+    "particle": "spacemod:block/metal_ladder",
+    "texture": "spacemod:block/metal_ladder"
+  }
+}

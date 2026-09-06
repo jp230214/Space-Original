@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,left=false": {
+      "model": "spacemod:block/trimmed_railing_diagonal_right",
+      "y": 270
+    },
+    "facing=east,left=true": {
+      "model": "spacemod:block/trimmed_railing_diagonal_left",
+      "y": 90
+    },
+    "facing=north,left=false": {
+      "model": "spacemod:block/trimmed_railing_diagonal_right",
+      "y": 180
+    },
+    "facing=north,left=true": {
+      "model": "spacemod:block/trimmed_railing_diagonal_left"
+    },
+    "facing=south,left=false": {
+      "model": "spacemod:block/trimmed_railing_diagonal_right"
+    },
+    "facing=south,left=true": {
+      "model": "spacemod:block/trimmed_railing_diagonal_left",
+      "y": 180
+    },
+    "facing=west,left=false": {
+      "model": "spacemod:block/trimmed_railing_diagonal_right",
+      "y": 90
+    },
+    "facing=west,left=true": {
+      "model": "spacemod:block/trimmed_railing_diagonal_left",
+      "y": 270
+    }
+  }
+}

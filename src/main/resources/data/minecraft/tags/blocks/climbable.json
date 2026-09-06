@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#spacemod:vent_shafts",
+    "spacemod:metal_ladder"
+  ]
+}

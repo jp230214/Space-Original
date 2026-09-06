@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "spacemod:block/nitrogen_ice",
+    "side": "spacemod:block/nitrogen_ice",
+    "top": "spacemod:block/nitrogen_ice"
+  }
+}

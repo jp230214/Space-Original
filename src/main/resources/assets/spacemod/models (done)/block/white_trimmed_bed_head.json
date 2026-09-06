@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_trimmed_bed_head",
+  "textures": {
+    "texture": "spacemod:block/white_trimmed_bed"
+  }
+}

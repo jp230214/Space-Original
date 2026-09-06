@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "spacemod:block/metal_sheet_walkway_bottom_bottom"
+    },
+    "half=top": {
+      "model": "spacemod:block/metal_sheet_walkway_top_top"
+    }
+  }
+}

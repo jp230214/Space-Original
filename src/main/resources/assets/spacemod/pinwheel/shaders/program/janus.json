@@ -1,0 +1,9 @@
+{
+  "vertex": "veil:blit_screen",
+  "fragment": "spacemod:janus",
+  "definitions": [
+    {
+      "MAX_PLANETS": "4"
+    }
+  ]
+}

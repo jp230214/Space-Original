@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_vent_hatch_open",
+  "textures": {
+    "texture": "spacemod:block/tarnished_gold_vent_hatch"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_branch_front",
+  "textures": {
+    "side": "minecraft:block/stripped_mangrove_log",
+    "top": "spacemod:block/stripped_mangrove_branch_top"
+  }
+}

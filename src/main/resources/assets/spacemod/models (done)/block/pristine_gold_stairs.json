@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "spacemod:block/pristine_gold",
+    "side": "spacemod:block/pristine_gold",
+    "top": "spacemod:block/pristine_gold"
+  }
+}

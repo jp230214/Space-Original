@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_glass_panel",
+  "textures": {
+    "edge": "spacemod:block/privacy_glass_panel_trim",
+    "pane": "spacemod:block/privacy_glass_panel_opaque"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_leather_couch_middle",
+  "textures": {
+    "texture": "spacemod:block/beige_leather_couch"
+  }
+}

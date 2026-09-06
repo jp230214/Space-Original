@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "spacemod:block/pristine_gold_pillar_top",
+    "side": "spacemod:block/pristine_gold_pillar"
+  }
+}

@@ -1,0 +1,164 @@
+{
+	"block.cargo_box.close": {
+		"sounds": [
+			"spacemod:block/cargo_box/close"
+		],
+		"subtitle": "subtitles.block.cargo_box.close"
+	},
+	"block.cargo_box.open": {
+		"sounds": [
+			"spacemod:block/cargo_box/open1"
+		],
+		"subtitle": "subtitles.block.cargo_box.open"
+	},
+	"block.light.toggle": {
+		"sounds": [
+			"spacemod:block/light_toggle"
+		],
+		"subtitle": "subtitles.block.light.toggle"
+	},
+	"block.privacy_panel.toggle": {
+		"sounds": [
+			"spacemod:block/privacy_panel_toggle"
+		],
+		"subtitle": "subtitles.block.privacy_panel.toggle"
+	},
+	"block.space_button.toggle": {
+		"sounds": [
+			"spacemod:block/space_button_toggle"
+		],
+		"subtitle": "subtitles.block.space_button.toggle"
+	},
+	"entity.door.toggle": {
+		"sounds": [
+			"spacemod:entity/toggle_door"
+		],
+		"subtitle": "subtitles.entity.door.toggle"
+	},
+	"entity.flashlight.toggle": {
+		"sounds": [
+			"spacemod:entity/flashlight_toggle"
+		],
+		"subtitle": "subtitles.entity.flashlight.toggle"
+	},
+	"entity.sprinkler.run": {
+		"sounds": [
+			"spacemod:entity/sprinkler_run"
+		],
+		"subtitle": "subtitles.entity.sprinkler.run"
+	},
+	"entity.jetpack.fly": {
+		"sounds": [
+			"spacemod:entity/jetpack_fly"
+		],
+		"subtitle": "subtitles.entity.jetpack.fly"
+	},
+	"entity.jetpack.start": {
+		"sounds": [
+			"spacemod:entity/jetpack_start"
+		],
+		"subtitle": "subtitles.entity.jetpack.start"
+	},
+	"block.pipe.extend": {
+		"sounds": [
+			"spacemod:block/pipe_extend"
+		],
+		"subtitle": "subtitles.block.pipe.extend"
+	},
+	"entity.pump.run": {
+		"sounds": [
+			"spacemod:entity/pump_run"
+		],
+		"subtitle": "subtitles.entity.pump.run"
+	},
+	"block.ichor.gulp": {
+		"sounds": [
+			"spacemod:block/ichor_gulp"
+		],
+		"subtitle": "subtitles.block.ichor.gulp"
+	},
+	"entity.airlock.cycle": {
+		"sounds": [
+			"spacemod:entity/airlock_cycle"
+		],
+		"subtitle": "subtitles.entity.airlock.cycle"
+	},
+	"ambient.space": {
+		"sounds": [
+			"spacemod:ambient/space"
+		],
+		"subtitle": "subtitles.ambient.space"
+	},
+	"ambient.ship": {
+		"sounds": [
+			"spacemod:ambient/ship"
+		],
+		"subtitle": "subtitles.ambient.ship"
+	},
+	"entity.player.breathe": {
+		"sounds": [
+			"spacemod:entity/player_breathe"
+		],
+		"subtitle": "subtitles.entity.player.breathe"
+	},
+	"entity.player.choke": {
+		"sounds": [
+			"spacemod:entity/player_choke"
+		],
+		"subtitle": "subtitles.entity.player.choke"
+	},
+	"entity.player.revive": {
+		"sounds": [
+			"spacemod:entity/player_revive"
+		],
+		"subtitle": "subtitles.entity.player.revive"
+	},
+	"block.marshmallow_can.store": {
+		"sounds": [
+			"spacemod:block/marshmallow_can_store"
+		],
+		"subtitle": "subtitles.block.marshmallow_can.store"
+	},
+	"block.marshmallow_can.take": {
+		"sounds": [
+			"spacemod:block/marshmallow_can_take"
+		],
+		"subtitle": "subtitles.block.marshmallow_can.take"
+	},
+	"block.mauve_plush.honk": {
+		"sounds": [
+			"spacemod:block/mauve_plush_honk"
+		],
+		"subtitle": "subtitles.block.mauve_plush.honk"
+	},
+	"item.stim.use": {
+		"sounds": [
+			"spacemod:item/stim_use"
+		],
+		"subtitle": "subtitles.item.stim.use"
+	},
+	"ui.warning.low": {
+		"sounds": [
+			"spacemod:ui/warning_low"
+		],
+		"subtitle": "subtitles.ui.warning.low"
+	},
+	"ui.warning.critical": {
+		"sounds": [
+			"spacemod:ui/warning_critical"
+		],
+		"subtitle": "subtitles.ui.warning.critical"
+	},
+	"item.telescope.zoom_in": {
+		"sounds": [
+			"spacemod:item/telescope_zoom_in"
+		],
+		"subtitle": "subtitles.item.telescope.zoom_in"
+	},
+	"item.telescope.zoom_out": {
+		"sounds": [
+			"spacemod:item/telescope_zoom_out"
+		],
+		"subtitle": "subtitles.item.telescope.zoom_out"
+	}
+}

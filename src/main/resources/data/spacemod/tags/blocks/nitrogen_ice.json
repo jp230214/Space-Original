@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:nitrogen_ice",
+    "spacemod:tholin_poor_nitrogen_ice",
+    "spacemod:tholin_rich_nitrogen_ice"
+  ]
+}

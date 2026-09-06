@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "opaque=false": {
+      "model": "spacemod:block/hull_glass"
+    },
+    "opaque=true": {
+      "model": "spacemod:block/hull_glass_opaque"
+    }
+  }
+}

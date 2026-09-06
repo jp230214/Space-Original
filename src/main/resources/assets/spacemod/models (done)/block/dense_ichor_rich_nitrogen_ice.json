@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "spacemod:block/dense_ichor_rich_nitrogen_ice_top",
+    "side": "spacemod:block/dense_ichor_rich_nitrogen_ice_side"
+  }
+}

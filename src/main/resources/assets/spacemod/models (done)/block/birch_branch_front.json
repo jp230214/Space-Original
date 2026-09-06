@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_branch_front",
+  "textures": {
+    "side": "minecraft:block/birch_log",
+    "top": "spacemod:block/birch_branch_top"
+  }
+}

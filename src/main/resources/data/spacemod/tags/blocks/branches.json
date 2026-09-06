@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:stainless_steel_branch",
+    "spacemod:dark_steel_branch",
+    "spacemod:oak_branch",
+    "spacemod:spruce_branch",
+    "spacemod:birch_branch",
+    "spacemod:jungle_branch",
+    "spacemod:acacia_branch",
+    "spacemod:dark_oak_branch",
+    "spacemod:mangrove_branch",
+    "spacemod:cherry_branch",
+    "spacemod:bamboo_pole",
+    "spacemod:crimson_stipe",
+    "spacemod:warped_stipe",
+    "spacemod:stripped_oak_branch",
+    "spacemod:stripped_spruce_branch",
+    "spacemod:stripped_birch_branch",
+    "spacemod:stripped_jungle_branch",
+    "spacemod:stripped_acacia_branch",
+    "spacemod:stripped_dark_oak_branch",
+    "spacemod:stripped_mangrove_branch",
+    "spacemod:stripped_cherry_branch",
+    "spacemod:stripped_bamboo_pole",
+    "spacemod:stripped_crimson_stipe",
+    "spacemod:stripped_warped_stipe"
+  ]
+}

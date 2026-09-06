@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_ornament_r0",
+  "textures": {
+    "texture": "spacemod:block/gold_ornament_center"
+  }
+}

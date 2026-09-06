@@ -1,0 +1,6 @@
+{
+  "parent": "spacemod:block/template_lounge_couch_single",
+  "textures": {
+    "texture": "spacemod:block/blue_lounge_couch"
+  }
+}

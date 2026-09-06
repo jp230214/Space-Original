@@ -1,0 +1,6 @@
+{
+  "type": "spacemod:ichor_shaft",
+  "biomes": "spacemod:janus",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

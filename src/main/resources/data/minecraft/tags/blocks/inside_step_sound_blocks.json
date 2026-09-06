@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:metal_sheet_walkway",
+    "spacemod:mahogany_panel",
+    "spacemod:bubinga_panel",
+    "spacemod:ebony_panel"
+  ]
+}

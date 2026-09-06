@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/META-INF/jars/cardinal-components-world-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/META-INF/jars/cardinal-components-entity-5.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/META-INF/jars/Veil-fabric-1.20.1-1.0.0.225.jar!/" />
+      <root url="jar://$PROJECT_DIR$/META-INF/jars/cardinal-components-base-5.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

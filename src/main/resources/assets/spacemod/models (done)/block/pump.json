@@ -1,0 +1,24 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "spacemod:block/pipe_top",
+		"1": "spacemod:block/pump_bottom",
+		"2": "spacemod:block/pump_side",
+		"3": "spacemod:block/pump_side_fan",
+		"particle": "spacemod:block/pump_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}

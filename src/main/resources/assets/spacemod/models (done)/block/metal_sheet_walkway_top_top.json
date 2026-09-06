@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_walkway_top",
+  "textures": {
+    "side": "spacemod:block/metal_sheet_walkway_side",
+    "top": "spacemod:block/metal_sheet_walkway"
+  }
+}

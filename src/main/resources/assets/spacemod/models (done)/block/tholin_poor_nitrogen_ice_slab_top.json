@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "spacemod:block/tholin_poor_nitrogen_ice",
+    "side": "spacemod:block/tholin_poor_nitrogen_ice",
+    "top": "spacemod:block/tholin_poor_nitrogen_ice"
+  }
+}

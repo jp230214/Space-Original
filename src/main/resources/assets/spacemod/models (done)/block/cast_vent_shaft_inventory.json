@@ -1,0 +1,10 @@
+{
+  "parent": "spacemod:block/template_vent_shaft_inventory",
+  "textures": {
+    "bottom": "spacemod:block/cast_vent_shaft_bottom_horizontal",
+    "end": "spacemod:block/cast_vent_shaft_opening",
+    "inside": "spacemod:block/cast_vent_shaft_inside_horizontal",
+    "side": "spacemod:block/cast_vent_shaft_side_horizontal",
+    "top": "spacemod:block/cast_vent_shaft_top_horizontal"
+  }
+}

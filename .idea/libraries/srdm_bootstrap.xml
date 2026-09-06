@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="srdm-bootstrap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/META-INF/srdm-bootstrap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

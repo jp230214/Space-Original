@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spacemod:block/metal_sheet_slab"
+    },
+    "type=double": {
+      "model": "spacemod:block/metal_sheet"
+    },
+    "type=top": {
+      "model": "spacemod:block/metal_sheet_slab_top"
+    }
+  }
+}

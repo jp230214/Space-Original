@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_branch_front",
+  "textures": {
+    "side": "minecraft:block/warped_stem",
+    "top": "spacemod:block/warped_stipe_top"
+  }
+}

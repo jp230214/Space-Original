@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:tarnished_gold_wall",
+    "spacemod:gold_wall",
+    "spacemod:pristine_gold_wall",
+    "spacemod:metal_sheet_wall",
+    "spacemod:stainless_steel_wall",
+    "spacemod:marble_wall",
+    "spacemod:marble_tile_wall",
+    "spacemod:dark_marble_wall",
+    "spacemod:white_hull_wall",
+    "spacemod:black_hull_wall",
+    "spacemod:black_hull_sheet_wall"
+  ]
+}

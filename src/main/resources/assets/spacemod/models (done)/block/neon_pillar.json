@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "spacemod:block/neon_pillar_top",
+    "side": "spacemod:block/neon_pillar"
+  }
+}

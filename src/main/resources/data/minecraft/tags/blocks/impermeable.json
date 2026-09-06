@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:hull_glass",
+    "spacemod:rhombus_glass",
+    "spacemod:golden_glass_panel"
+  ]
+}

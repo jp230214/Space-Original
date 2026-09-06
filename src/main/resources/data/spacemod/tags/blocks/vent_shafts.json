@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:metal_vent_shaft",
+    "spacemod:cast_vent_shaft",
+    "spacemod:tarnished_gold_vent_shaft"
+  ]
+}

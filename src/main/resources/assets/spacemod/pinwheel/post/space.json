@@ -1,0 +1,55 @@
+{
+  "stages": [
+    {
+      "type": "veil:blit",
+      "shader": "spacemod:space",
+      "in": "minecraft:main",
+      "out": "swap"
+    },
+    {
+      "type": "veil:copy",
+      "in": "swap",
+      "out": "minecraft:main",
+      "color": true
+    }
+  ],
+  "framebuffers": {
+    "swap": {
+      "depth": true
+    }
+  },
+  "textures": {
+    "HandDepthTexture": {
+      "type": "framebuffer",
+      "name": "veil:first_person:depth"
+    },
+    "StarsTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/stars_milky_way.jpg"
+    },
+    "SunTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/sun.jpg"
+    },
+    "SaturnRingTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/saturn_ring.png"
+    },
+    "UranusRingTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/uranus_ring.png"
+    },
+    "NoiseTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/noise.png"
+    },
+    "EarthCloudsTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/earth_clouds.jpg"
+    },
+    "EarthNightTexture": {
+      "type": "location",
+      "location": "spacemod:textures/space/earth_night.jpg"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spacemod:block/black_hull_slab"
+    },
+    "type=double": {
+      "model": "spacemod:block/black_hull"
+    },
+    "type=top": {
+      "model": "spacemod:block/black_hull_slab_top"
+    }
+  }
+}

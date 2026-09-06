@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "spacemod:block/stainless_steel",
+    "side": "spacemod:block/stainless_steel",
+    "top": "spacemod:block/stainless_steel"
+  }
+}

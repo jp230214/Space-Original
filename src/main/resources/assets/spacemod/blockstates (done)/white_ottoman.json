@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "spacemod:block/white_ottoman",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "spacemod:block/white_ottoman"
+    },
+    "facing=south": {
+      "model": "spacemod:block/white_ottoman",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spacemod:block/white_ottoman",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:tarnished_gold_stairs",
+    "spacemod:gold_stairs",
+    "spacemod:pristine_gold_stairs",
+    "spacemod:metal_sheet_stairs",
+    "spacemod:stainless_steel_stairs",
+    "spacemod:marble_stairs",
+    "spacemod:marble_tile_stairs",
+    "spacemod:dark_marble_stairs",
+    "spacemod:white_hull_stairs",
+    "spacemod:black_hull_stairs",
+    "spacemod:black_hull_sheet_stairs",
+    "spacemod:mahogany_herringbone_stairs",
+    "spacemod:smooth_mahogany_stairs",
+    "spacemod:bubinga_herringbone_stairs",
+    "spacemod:smooth_bubinga_stairs",
+    "spacemod:ebony_herringbone_stairs",
+    "spacemod:smooth_ebony_stairs",
+    "spacemod:nitrogen_ice_stairs",
+    "spacemod:tholin_poor_nitrogen_ice_stairs",
+    "spacemod:tholin_rich_nitrogen_ice_stairs"
+  ]
+}

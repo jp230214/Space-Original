@@ -1,0 +1,7 @@
+{
+  "parent": "spacemod:block/template_vent_shaft_side",
+  "textures": {
+    "inside": "spacemod:block/metal_vent_shaft_bottom_horizontal",
+    "side": "spacemod:block/metal_vent_shaft_top_horizontal"
+  }
+}

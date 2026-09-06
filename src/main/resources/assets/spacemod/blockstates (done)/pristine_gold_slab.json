@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spacemod:block/pristine_gold_slab"
+    },
+    "type=double": {
+      "model": "spacemod:block/pristine_gold"
+    },
+    "type=top": {
+      "model": "spacemod:block/pristine_gold_slab_top"
+    }
+  }
+}

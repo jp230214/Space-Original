@@ -1,0 +1,205 @@
+{
+  "feature": "spacemod:tholin_poor_nitrogen_ice_slab",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 64
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "spacemod:tholin_poor_nitrogen_ice",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          },
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              {
+                "type": "minecraft:all_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      0,
+                      -1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      1,
+                      0,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      -1,
+                      -1,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:all_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      1,
+                      0,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      0,
+                      1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      -1,
+                      -1,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      -1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:all_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      0,
+                      1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      -1,
+                      0,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      -1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      1,
+                      -1,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:all_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      -1,
+                      0,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      0,
+                      -1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      1,
+                      -1,
+                      0
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  },
+                  {
+                    "type": "minecraft:matching_block_tag",
+                    "offset": [
+                      0,
+                      -1,
+                      1
+                    ],
+                    "tag": "spacemod:nitrogen_ice"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

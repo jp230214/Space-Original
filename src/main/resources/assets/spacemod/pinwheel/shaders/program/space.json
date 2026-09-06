@@ -1,0 +1,10 @@
+{
+  "vertex": "veil:blit_screen",
+  "fragment": "spacemod:space",
+  "definitions": [
+    {
+      "MAX_PLANETS": "4"
+    },
+    "RYAN_MODE"
+  ]
+}

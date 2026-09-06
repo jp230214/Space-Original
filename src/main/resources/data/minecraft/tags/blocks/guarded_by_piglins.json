@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "spacemod:tarnished_gold",
+    "spacemod:tarnished_gold_stairs",
+    "spacemod:tarnished_gold_slab",
+    "spacemod:tarnished_gold_wall",
+    "spacemod:tarnished_gold_pillar",
+    "spacemod:gold",
+    "spacemod:gold_stairs",
+    "spacemod:gold_slab",
+    "spacemod:gold_wall",
+    "spacemod:gold_pillar",
+    "spacemod:pristine_gold",
+    "spacemod:pristine_gold_stairs",
+    "spacemod:pristine_gold_slab",
+    "spacemod:pristine_gold_wall",
+    "spacemod:pristine_gold_pillar",
+    "spacemod:tarnished_gold_vent_hatch",
+    "spacemod:tarnished_gold_vent_shaft",
+    "spacemod:gold_bar",
+    "spacemod:trimmed_lantern",
+    "spacemod:wall_lamp",
+    "spacemod:gold_ornament"
+  ]
+}

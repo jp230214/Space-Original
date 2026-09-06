@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "spacemod:block/driving_seat",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "spacemod:block/driving_seat"
+    },
+    "facing=south": {
+      "model": "spacemod:block/driving_seat",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spacemod:block/driving_seat",
+      "y": 270
+    }
+  }
+}
